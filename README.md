@@ -12,8 +12,9 @@ In the workplace, I am always willing to help and collaborate with colleagues an
 
 #### Education 
 - Visitant Student at University of L'Aquila, Italy || May. 2024 - Nov. 2024
-- Master's Student Renewable Energy at Federal University of Paraíba, Brazil || Mar. 2023 - Feb. 2025
-- Physics at Federal University of Paraíba, Brazil || May. 2013 - Sept. 2019
+- Master's Student Renewable Energy at the Federal University of Paraíba, Brazil || Mar. 2023 - Feb. 2025
+- Renewable Energy Engineering at the Federal University of Paraíba, Brazil || Mar. 2021 - Stopped at Mar. 2024
+- Physics at the Federal University of Paraíba, Brazil || May. 2013 - Sept. 2019
 
 #### Hard skills: 
 <div style="display: inline_block"><br/>
