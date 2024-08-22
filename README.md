@@ -2,9 +2,6 @@
 
 - I am a data analyst passionate about technology and learning new tools to enhance projects. My expertise is data analysis within the renewable energy sector, but I also challenge myself with data analysis in other sectors.
 
-- I am a fast learner, proactive, and constantly improving to deliver the best results.
-In the workplace, I am always willing to help and collaborate with colleagues and contribute to the team's growth.
-
 #### Contact me: 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](paulaanafreire@gmail.com)
