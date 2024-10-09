@@ -4,11 +4,11 @@
 
 #### Contact me: 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](paulaanafreire@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](paulaanafreire@gmail.com) <br/>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-paula-freire-de-ara%C3%BAjo-9434b7319/)
 
 #### Education 
-- Visitant Student at University of L'Aquila, Italy || May. 2024 - Nov. 2024
+- Master's Visitant Student at University of L'Aquila, Italy || May. 2024 - Nov. 2024
 - Master's Student Renewable Energy at the Federal University of Paraíba, Brazil || Mar. 2023 - Feb. 2025
 - Renewable Energy Engineering at the Federal University of Paraíba, Brazil || Mar. 2021 - Stopped at Mar. 2024
 - Physics at the Federal University of Paraíba, Brazil || May. 2013 - Sept. 2019
@@ -46,7 +46,8 @@
 
 #### Projects 
 
-- [Data Analysis: users profiles of digital online course || Status: In progress](https://github.com/apfreirea/Project-/blob/main/data_analysis_users_programaria.ipynb)<br/>
+- [Machine learning to predict the salaries of non-white individuals in the IT sector || Complete Project](https://github.com/apfreirea/Machine-Learning-To-Predict-Salary)<br/>
+- [Data Analysis: users profiles of digital online course || Project in progress](https://github.com/apfreirea/Project-/blob/main/data_analysis_users_programaria.ipynb)<br/>
 - [Green coconut shell as energy biomass: a bibliometric and systematic analysis of scientific literature || Article](http://dx.doi.org/10.15406/ijh.2024.08.00381)<br/>
 - [Copper Ferrites and Solar Radiation in the Removal of Rhodamine B: A Bibliometric Approach || Article](https://www.researchgate.net/publication/378766321_Copper_Ferrites_and_Solar_Radiation_in_the_Removal_of_Rhodamine_B_A_Bibliometric_Approach)<br/>
 - [Photovoltaic Solar Energy to Mitigate Emissions Associated with Public Buildings: A Bibliometric Study || Poster](https://www.researchgate.net/publication/378766098_Photovoltaic_Solar_Energy_to_Mitigate_Emissions_Associated_with_Public_Buildings_A_Bibliometric_Study?channel=doi&linkId=65e87d65adf2362b637ced7b&showFulltext=true)<br/>
