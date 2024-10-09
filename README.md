@@ -1,6 +1,6 @@
 ### Hi, I'm Ana Paula Freire  👋
 
-- I am a data analyst passionate about technology and learning new tools to enhance projects. My expertise is data analysis within the renewable energy sector, but I also challenge myself with data analysis in other sectors.
+- I am a data science and analyst passionate about technology and learning new tools to enhance projects. My expertise is data analysis within the renewable energy sector, but I also challenge myself with data analysis in other sectors.
 
 #### Contact me: 
 
