@@ -48,7 +48,7 @@
 #### Projects 
 
 - [Machine learning to predict the salaries of non-white individuals in the IT sector || Complete Project](https://github.com/apfreirea/Machine-Learning-To-Predict-Salary)<br/>
-- [Analysis of Diversity Among Users of the PrograMaria Platform in the IT Field || Complete Project](https://github.com/apfreirea/Project-/blob/main/data_analysis_users_programaria.ipynb)<br/>
+- [Analysis of Diversity Among Users of the PrograMaria Platform in the IT Field || Complete Project](https://github.com/apfreirea/Analise-de-Dados-Progra-Maria)<br/>
 - [Green coconut shell as energy biomass: a bibliometric and systematic analysis of scientific literature || Article](http://dx.doi.org/10.15406/ijh.2024.08.00381)<br/>
 - [Copper Ferrites and Solar Radiation in the Removal of Rhodamine B: A Bibliometric Approach || Article](https://www.researchgate.net/publication/378766321_Copper_Ferrites_and_Solar_Radiation_in_the_Removal_of_Rhodamine_B_A_Bibliometric_Approach)<br/>
 - [Photovoltaic Solar Energy to Mitigate Emissions Associated with Public Buildings: A Bibliometric Study || Poster](https://www.researchgate.net/publication/378766098_Photovoltaic_Solar_Energy_to_Mitigate_Emissions_Associated_with_Public_Buildings_A_Bibliometric_Study?channel=doi&linkId=65e87d65adf2362b637ced7b&showFulltext=true)<br/>
