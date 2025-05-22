@@ -1,6 +1,7 @@
 ### Hi, I'm Ana Paula Freire  👋
 
-- I am a data science and analyst passionate about technology and learning new tools to enhance projects. My expertise is data analysis within the renewable energy sector, but I also challenge myself with data analysis in other sectors.
+ - I'm a scientist by training. Analytical thinking and a drive to solve problems are part of who I am! While science can often be a solitary pursuit — much like coding — I truly believe in the power of collaborative work. Data analysis is part of everyday life for anyone working with scientific data. Here, I’m showing another side of myself: the side that writes code to deliver solutions in data science and data engineering.
+Below, you can check out some of my projects :)
 
 #### Contact me: 
 
@@ -47,8 +48,12 @@
 
 #### Projects 
 
-- [Machine learning to predict the salaries of non-white individuals in the IT sector || Complete Project](https://github.com/apfreirea/Machine-Learning-To-Predict-Salary)<br/>
-- [Analysis of Diversity Among Users of the PrograMaria Platform in the IT Field || Complete Project](https://github.com/apfreirea/Analise-de-Dados-Progra-Maria)<br/>
+- [Data Science and Analytics - Prediction of rental prices in New York real estate](https://github.com/apfreirea/case-precificacao-imovel)</br>
+- [Data Science - Machine learning to predict the salaries of non-white individuals in the IT sector in Brazil](https://github.com/apfreirea/Machine-Learning-To-Predict-Salary)<br/>
+- [Data Analysis - Analysis of the diversity profile among IT employees in Brazil](https://github.com/apfreirea/Analise-de-Dados-Progra-Maria)<br/>
+
+### Articles
+
 - [Green coconut shell as energy biomass: a bibliometric and systematic analysis of scientific literature || Article](http://dx.doi.org/10.15406/ijh.2024.08.00381)<br/>
 - [Copper Ferrites and Solar Radiation in the Removal of Rhodamine B: A Bibliometric Approach || Article](https://www.researchgate.net/publication/378766321_Copper_Ferrites_and_Solar_Radiation_in_the_Removal_of_Rhodamine_B_A_Bibliometric_Approach)<br/>
 - [Photovoltaic Solar Energy to Mitigate Emissions Associated with Public Buildings: A Bibliometric Study || Poster](https://www.researchgate.net/publication/378766098_Photovoltaic_Solar_Energy_to_Mitigate_Emissions_Associated_with_Public_Buildings_A_Bibliometric_Study?channel=doi&linkId=65e87d65adf2362b637ced7b&showFulltext=true)<br/>
